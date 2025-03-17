@@ -162,3 +162,9 @@
 [23:02:22] [localSession-7-2/INFO]: [Geyser-Spigot] Diego818w728 has disconnected from the Java server because of End of stream
 [23:02:22] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Diego818w728 disconnected
 [23:02:22] [Server thread/INFO]: .Diego818w728 left the game
+[23:08:43] [Server thread/INFO]: Zeroks19 lost connection: Disconnected
+[23:08:43] [Server thread/INFO]: Zeroks19 left the game
+[23:08:45] [User Authenticator #1/INFO]: UUID of player Zeroks19 is b600887a-f2a9-3e9d-9bc5-2d28f531aca2
+[23:08:47] [Server thread/INFO]: Zeroks19 joined the game
+[23:08:47] [Server thread/INFO]: Zeroks19[/127.134.216.51:48403] logged in with entity id 6118 at ([world]226.5034419203193, 63.0, -119.46126355836317)
+[23:11:09] [Server thread/INFO]: Zeroks19 has made the advancement [Getting an Upgrade]
