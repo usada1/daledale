@@ -172,3 +172,28 @@
 [23:18:29] [Server thread/INFO]: Zeroks19 has made the advancement [Diamonds!]
 [23:22:09] [Server thread/INFO]: Zeroks19 has made the advancement [Hot Stuff]
 [23:23:58] [Server thread/INFO]: Zeroks19 has made the advancement [Suit Up]
+[23:45:10] [Server thread/INFO]: Zeroks19 was doomed to fall by Skeleton
+[23:45:23] [Server thread/INFO]: Zeroks19 issued server command: /gamemode spectator
+[23:45:23] [Server thread/INFO]: [Zeroks19: Set own game mode to Spectator Mode]
+[23:46:50] [Server thread/INFO]: Zeroks19 issued server command: /kill @n
+[23:46:50] [Server thread/INFO]: Zeroks19 was killed
+[23:46:50] [Server thread/INFO]: [Zeroks19: Killed Zeroks19]
+[23:48:55] [Server thread/INFO]: Zeroks19 issued server command: /kill @e
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10114, uuid='865f468e-5c90-4407-80a1-0d02f4210642', l='ServerLevel[world]', x=339.50, y=66.00, z=-284.50, cpos=[21, -18], tl=24779, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10109, uuid='acf373c2-90c6-4e73-b829-019adcfa714c', l='ServerLevel[world]', x=359.50, y=60.00, z=-260.50, cpos=[22, -17], tl=15806, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Zeroks19 was killed
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10084, uuid='37b7f1db-f730-42cc-bff6-e8aacf3c3ab6', l='ServerLevel[world]', x=383.50, y=64.00, z=-2.50, cpos=[23, -1], tl=22739, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10080, uuid='5b6bcfd9-681c-47fd-a6d4-a4c4f046fc2c', l='ServerLevel[world]', x=376.57, y=64.56, z=13.87, cpos=[23, 0], tl=22456, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Weaponsmith'/10081, uuid='1da39d60-305b-425d-b232-1f32de6f47c9', l='ServerLevel[world]', x=377.50, y=64.00, z=13.50, cpos=[23, 0], tl=22568, v=true] died, message: 'Weaponsmith was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10107, uuid='75ef85f5-b7d1-45b8-a75e-b961441f5dcf', l='ServerLevel[world]', x=338.50, y=60.00, z=-261.50, cpos=[21, -17], tl=32093, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10139, uuid='4f347b85-b03f-4024-ba56-b0112bec969a', l='ServerLevel[world]', x=349.50, y=68.00, z=-306.50, cpos=[21, -20], tl=1112, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10130, uuid='faa2630c-a314-41b6-a467-3e07befe3c81', l='ServerLevel[world]', x=350.50, y=68.00, z=-300.50, cpos=[21, -19], tl=3161, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Cartographer'/10079, uuid='f9e49db9-cb65-40df-8d0f-6675b882d73e', l='ServerLevel[world]', x=383.50, y=72.00, z=26.50, cpos=[23, 1], tl=22315, v=true] died, message: 'Cartographer was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Farmer'/10108, uuid='cde1d953-d7b6-424b-a39b-846a93ee0faf', l='ServerLevel[world]', x=337.75, y=61.00, z=-261.33, cpos=[21, -17], tl=39864, v=true] died, message: 'Farmer was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10140, uuid='dcca0d99-946e-430f-a8d7-5b6797818f20', l='ServerLevel[world]', x=336.50, y=69.00, z=-318.50, cpos=[21, -20], tl=690, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: Villager Villager['Villager'/10082, uuid='2d0b5891-e90a-4195-8049-cde5147e8216', l='ServerLevel[world]', x=376.72, y=64.56, z=14.84, cpos=[23, 0], tl=21950, v=true] died, message: 'Villager was killed'
+[23:48:55] [Server thread/INFO]: [Zeroks19: Killed 250 entities]
+[23:49:29] [Server thread/INFO]: Zeroks19 issued server command: /gamemode creative
+[23:49:29] [Server thread/INFO]: [Zeroks19: Set own game mode to Creative Mode]
+[23:52:44] [Server thread/INFO]: Zeroks19 issued server command: /gamemode survival
+[23:52:44] [Server thread/INFO]: [Zeroks19: Set own game mode to Survival Mode]
